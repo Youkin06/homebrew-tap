@@ -1,8 +1,8 @@
 class See < Formula
   desc "Mouse-friendly terminal viewer for PDFs, images, documents, animations and video"
   homepage "https://github.com/Youkin06/see"
-  url "https://github.com/Youkin06/see/archive/refs/tags/v0.4.0.tar.gz"
-  sha256 "01747b728030281693a87c1a156cf2a87e650571670ca973485f47589df8f089"
+  url "https://github.com/Youkin06/see/archive/refs/tags/v0.5.0.tar.gz"
+  sha256 "fd1e3073603fa7aa8342c1d4dbf1322f0e4aac33b5eb7c05758034eb0a740ab7"
   license "MIT"
   head "https://github.com/Youkin06/see.git", branch: "main"
 
